@@ -254,6 +254,10 @@ body{
         font-weight:400;
     }
 
+    .email-btn{
+        padding-bottom:20px;
+    }
+
     .up-section > *{
         flex-direction: column;
         width:88%;
