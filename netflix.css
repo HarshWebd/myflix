@@ -84,6 +84,7 @@ body{
     font-size: 3rem;
     font-weight: 999;
     color: #ffffff;
+    margin-bottom:10px;
 }
 
 .Big-P{
@@ -167,7 +168,7 @@ body{
 }
 
 .section2 > img{
-    width: 100%;
+    width: 45%;
 }
 
 .graphic-sect3{
@@ -188,7 +189,7 @@ body{
 }
 
 .section4 > img{
-    width: 100%;
+    width: 46%;
 }
 
 @media (max-width:599px){
