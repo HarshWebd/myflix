@@ -247,7 +247,7 @@ body{
 
     .email-btn > input[type="button"]{
         padding: 12px;
-        width: 70%;
+        width: 50%;
         margin: auto;
         margin-bottom: 20px;
     }
