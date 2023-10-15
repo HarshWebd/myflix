@@ -226,12 +226,23 @@ body{
         font-size: 0.8rem;
     }
 
+    .content{
+        width:89%;
+    }
+
+    .small-H{
+        font-size:1.125rem;
+        line-height:1.5;
+        font-weight:400;
+    }
+
     .email-btn{
         flex-direction: column;
     }
 
     .email-btn > input[type="email"]{
-        width: 100%;
+        width: 80%;
+        margin:auto;
     }
 
     .email-btn > input[type="button"]{
