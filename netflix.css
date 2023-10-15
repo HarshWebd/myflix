@@ -254,6 +254,7 @@ body{
 
     .up-section > *{
         flex-direction: column;
+        width:80%;
         height: 100%;
         margin-bottom: 80px;
     }
