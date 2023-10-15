@@ -193,6 +193,8 @@ body{
 }
 
 footer{
+    position:relative;
+    z-index:999;
     background-color: #000;
     color: #ffffffdc;
     text-align: left;
