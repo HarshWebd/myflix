@@ -183,9 +183,9 @@ body{
 .graphic-sect3 > video{
     position: absolute;
     top: 7%;
-    left: 21%;
+    left: 19%;
     z-index: -99;
-    width: 59%;
+    width: 61%;
 }
 
 .section4 > img{
