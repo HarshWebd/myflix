@@ -192,6 +192,55 @@ body{
     width: 46%;
 }
 
+footer{
+    background-color: #000;
+    color: #ffffffb3;
+    text-align: left;
+}
+
+footer a{
+    color: #ffffffb3;
+}
+
+footer > div{
+    padding-top: 30px;
+    width: 75%;
+    margin: auto;
+}
+
+ul{
+    list-style: none;
+    display: grid;
+    grid-template-columns:1fr 1fr 1fr 1fr;
+    grid-gap: 10px;
+    padding:0;
+    margin: 20px 0 30px 0;
+}
+
+li{
+    text-decoration: underline;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+footer select{
+    padding: 5px 15px;
+    font-size: 1rem;
+    background-color: #1a1919;
+    outline: none;
+    color: white;
+    border-radius: 0.2rem;
+    font-weight: normal;
+}
+
+footer > div > div {
+    padding: 20px 0;
+}
+
+footer .botm{
+    font-size: 14px;
+}
+
 @media (max-width:599px){
     .email-btn{
         flex-direction: column;
@@ -285,6 +334,9 @@ body{
         line-height:1.2;
     }
 
+    footer ul{
+        grid-template-columns: 1fr 1fr;
+    }
 }
 
 @media (min-width:950px) and (max-width:1200px) {
