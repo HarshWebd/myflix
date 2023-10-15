@@ -21,7 +21,7 @@ body{
 
 .hero::after{
     content:"";
-    background-color: rgba(0, 0, 0, 0.575);
+    background-color: rgba(0, 0, 0, 0.6);
     width: 100%;
     height: inherit;
     position:absolute;
