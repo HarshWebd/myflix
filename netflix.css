@@ -259,6 +259,10 @@ body{
         margin-bottom: 80px;
     }
 
+    .section2,.section4{
+        flex-direction: column-reverse;
+    }
+
     .up-section img{
         width: 100%;
     }
