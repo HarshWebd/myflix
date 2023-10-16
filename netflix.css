@@ -107,7 +107,7 @@ body{
     gap: 10px;
 }
 
-.email-btn > input[type="email"]{
+.email-btn > input[type="text"]{
     padding: 15px;
     outline: none;
     width: 40%;
@@ -118,7 +118,7 @@ body{
     border-radius: 0.3rem;
 }
 
-.email-btn > input[type="email"]::placeholder{
+.email-btn > input[type="text"]::placeholder{
     color:rgba(255, 255, 255, 0.656);
     font-size: 0.9rem;
 }
