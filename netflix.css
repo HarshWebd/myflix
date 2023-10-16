@@ -248,7 +248,7 @@ footer .botm{
         flex-direction: column;
     }
 
-    .email-btn > input[type="email"]{
+    .email-btn > input[type="text"]{
         width: 80%;
         margin:auto;
     }
