@@ -396,11 +396,15 @@ footer .botm{
 
 @media (min-width:950px) and (max-width:1200px) {
     .hero{
-        height: 600px;
+        height: 700px;
     }
 
     .up-section{
         height: 500px;
+    }
+
+    footer > div{
+         width: 90%;   
     }
 }
 
