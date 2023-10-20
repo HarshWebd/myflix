@@ -233,12 +233,12 @@ footer{
     position:relative;
     z-index:999;
     background-color: #000;
-    color: #ffffffdc;
+    color: #ffffffb3;
     text-align: left;
 }
 
 footer a{
-    color: #ffffffdc;
+    color: #ffffffb3;
 }
 
 footer > div{
@@ -386,11 +386,12 @@ footer .botm{
     }
 
     footer > div{
-        width: 95%;
+        width: 330px;
     }
 
     footer ul{
         grid-template-columns: 1fr 1fr;
+        row-gap:14px;
     }
 }
 
