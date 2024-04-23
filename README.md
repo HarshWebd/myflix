@@ -17,7 +17,7 @@ To view the Instagram landing page frontend clone, simply download or clone the 
 ```bash
 git clone https://github.com/harshdev/myflix.git
 cd myflix
-
+```
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
@@ -32,5 +32,4 @@ Please make sure to follow the existing code style and conventions.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
+This project is licensed under the MIT License.
